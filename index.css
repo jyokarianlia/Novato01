@@ -1,0 +1,25 @@
+body {
+  background: #262826;
+  font-size: 12px;
+}
+
+p{
+  color: #fff;
+  font-size: 2rem;
+}
+
+.nombre{
+  font-size: 3rem;
+}
+
+.habilidad{
+  background: #706876 ;
+  width: 90%;
+  text-align: center;
+  margin: 1em 0px;
+  border-radius: 1em;
+}
+
+.habilidad p{
+  font-size: 1.75rem;
+}
